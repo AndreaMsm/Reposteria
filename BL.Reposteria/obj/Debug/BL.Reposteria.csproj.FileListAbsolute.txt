@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Lenguaje de Programacion lll\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll
+C:\Users\HP\Documents\Lenguaje de Programacion lll\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.pdb
+C:\Users\HP\Documents\Lenguaje de Programacion lll\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Lenguaje de Programacion lll\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.dll
+C:\Users\HP\Documents\Lenguaje de Programacion lll\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.pdb
