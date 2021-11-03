@@ -1,0 +1,30 @@
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.pdb
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.dll
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.pdb
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll.config
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.dll
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.xml
+C:\Users\Laptop\Documents\Lenguaje 3\Reposteria\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll.config
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.xml
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll.config
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.dll
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\BL.Reposteria.pdb
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.dll
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.xml
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.dll
+C:\Users\Laptop\Downloads\Reposteria\BL.Reposteria\obj\Debug\BL.Reposteria.pdb
